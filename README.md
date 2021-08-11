@@ -18,7 +18,11 @@
 <br/>
 
 ## Exemplo de Utilização:
-### Adicione a classe de sua <a href=''>máscara</a> desejada no seu `<input type='text' class='maskclass'>`
+---
+
+Adicione a classe de sua <a href='https://github.com/miguelhp373/MaskInputJS#masc%C3%A1ras'>máscara</a> desejada no seu  `<input type='text' class='maskclass'>`
+
+
 ```html
     <body>
         <input type='text' class='inputnumberphone'>
@@ -29,6 +33,7 @@
 <br/>
 
 ## Mascáras
+---
 - `class = 'inputnumberphone'` -> Mascára Para Telefones
 - `class = 'inputCpfMasked'`   -> Mascára Para Cpf
 
