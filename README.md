@@ -2,7 +2,7 @@
  Biblioteca CDN  máscaras de input no Html, utilizando JavaScript
 
 <img src=' https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black'/>
-&nbsp;
+
 <img src=' https://img.shields.io/badge/jsDelivr-E84D3D.svg?style=for-the-badge&logo=jsDelivr&logoColor=white'>
 
 
