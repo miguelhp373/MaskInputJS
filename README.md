@@ -5,7 +5,6 @@
 &nbsp;
 <img src=' https://img.shields.io/badge/jsDelivr-E84D3D.svg?style=for-the-badge&logo=jsDelivr&logoColor=white'>
 
-<br/><br/>
 
 ## Instalação:
 ---
@@ -16,7 +15,7 @@
 
 ```
 
-<br/><br/>
+<br/>
 
 ## Exemplo de Utilização:
 ### Adicione a classe de sua <a href=''>máscara</a> desejada no seu `<input type='text' class='maskclass'>`
@@ -27,7 +26,7 @@
 
 ```
 
-<br/><br/>
+<br/>
 
 ## Mascáras
 - `class = 'inputnumberphone'` -> Mascára Para Telefones
