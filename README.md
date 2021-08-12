@@ -10,7 +10,7 @@
 
 ## Instalação:
 ---
-- Inclua a tag de script abaixo em seu documento:.
+- Inclua a tag de script abaixo em seu documento:
 
 ```html
 <script src='https://cdn.jsdelivr.net/gh/miguelhp373/MaskInputJS/maskjs@1.3/maskjs.min.js'></script>
