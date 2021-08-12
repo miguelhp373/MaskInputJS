@@ -1,6 +1,6 @@
 # MaskInputJS
- Biblioteca CDN  máscaras de input no Html, utilizando JavaScript
-
+ Biblioteca JavaScript de máscaras para inputs no Html
+ 
 <div style='display:flex;'>
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black'/>
    &nbsp;
