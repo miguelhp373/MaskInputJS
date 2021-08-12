@@ -73,7 +73,7 @@ Adicione a classe de sua <a href='https://github.com/miguelhp373/MaskInputJS#mas
 
 ## License
 
-[LICENÇA](LICENSE)
+[Apache License 2.0](LICENSE)
 
 Feito com 💜 &nbsp;por Miguel Henrique 👋
 
