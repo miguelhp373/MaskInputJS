@@ -34,8 +34,30 @@ Adicione a classe de sua <a href='https://github.com/miguelhp373/MaskInputJS#mas
 
 ## Mascáras
 ---
-- `class = 'inputnumberphone'` -> Mascára Para Telefones
-- `class = 'inputCpfMasked'`   -> Mascára Para Cpf
+- Telefone :
+&nbsp;
+    `(11)91111-1111`
+    <br/>
+    - `class = 'inputnumberphone'` 
+
+- CPF :
+&nbsp;
+    `111.111.111-11`
+    <br/>
+    - `class = 'inputCpfMasked'` 
+
+- Data (DD/MM/AAAA) :
+&nbsp;
+    `00/00/0000`
+    <br/>
+    - `class = 'inputdateformat_ddmmaaaa'`  
+
+- Data Hora (DD/MM/AAAA 00:00) :
+&nbsp;
+    `00/00/0000 00:00`
+    <br/>
+    - `class = 'inputdateformat_ddmmaaaahhmm'`
+
 
 
 ## License
