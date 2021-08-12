@@ -41,7 +41,7 @@ Adicione a classe de sua <a href='https://github.com/miguelhp373/MaskInputJS#mas
     `(11)91111-1111`
     <br/>
     ```html
-    <input type='text' class = 'inputnumberphone'/>
+    <input type='text' class = 'inputnumberphoneformat'/>
     ``` 
 
 - CPF :
@@ -49,7 +49,7 @@ Adicione a classe de sua <a href='https://github.com/miguelhp373/MaskInputJS#mas
     `111.111.111-11`
     <br/>
     ```html
-    <input type='text' class = 'inputCpfMasked'/>
+    <input type='text' class = 'inputCpfformat'/>
     ``` 
 
 - Data (DD/MM/AAAA) :
