@@ -5,6 +5,9 @@
   <img src='https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black'/>
    &nbsp;
   <img src='https://img.shields.io/badge/jsDelivr-E84D3D.svg?style=for-the-badge&logo=jsDelivr&logoColor=white'/>
+ 
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/jquery-mask-plugin/badge?style=rounded)](https://cdn.jsdelivr.net/gh/miguelhp373/MaskInputJS/maskjs@1.3/maskjs.min.js)
+[![CDNJS](https://img.shields.io/cdnjs/v/jquery.mask.svg)](https://cdn.jsdelivr.net/gh/miguelhp373/MaskInputJS/maskjs@1.3/maskjs.min.js)
  </div>
 
 
